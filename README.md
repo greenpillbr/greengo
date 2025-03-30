@@ -1,5 +1,7 @@
 # GreenGo
 
+The following slides were presented on the Public Goods Hackathons from Octant at 16th March of 2025, so for a better understanding of the project, please read it :)
+
 ## Introduction
 
 ![image](https://github.com/user-attachments/assets/610b7e1b-8189-4036-9304-370dede94698)
@@ -34,7 +36,11 @@
 
 ## Application Prototype
 
-As you can see we developed some screens, but to create 
+We designed the whole app on the Public Goods
+
+## Roadmap
+
+
 
 ## Credits
 
