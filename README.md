@@ -1,6 +1,6 @@
 # GreenGo
 
-The following slides were presented on the Public Goods Hackathons from Octant at 16th March of 2025, so for a better understanding of the project, please read it :)
+The following slides were presented on the [Public Goods Hackathons from Octant](https://twitter.com/OctantApp/status/1901401619201474923) at 16th March of 2025, so for a better understanding of the project, please read it :)
 
 ## Introduction
 
@@ -36,11 +36,94 @@ The following slides were presented on the Public Goods Hackathons from Octant a
 
 ## Application Prototype
 
-We designed the whole app on the Public Goods
+We designed the whole app on the [Figma](https://www.figma.com/design/gH29KHbhaFi7ki19vWQItS/GreenGo-%5BMobile-App%5D?node-id=0-1&t=gbaPMeEwLenhSKle-1) here is the App and here it's the [Prototype](https://www.figma.com/proto/gH29KHbhaFi7ki19vWQItS/GreenGo-Mobile-App?node-id=0-1&p=f&viewport=2396%2C-7%2C0.09&t=gbaPMeEwLenhSKle-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A2&show-proto-sidebar=1).
 
-## Roadmap
+## Purpose
 
+## 🌱 Development Roadmap
 
+With support from this dApps and Apps grant, we’ll develop and validate our MVP over 4 months, focusing on real impact, usability, and fun — built in clear, iterative phases.
+
+---
+
+### 🟢 Phase 1 – Educational Onboarding
+
+- Interactive onboarding screens explaining how the app works
+- Login via email and Web3 wallets (using Privy)
+- Supabase integration for user authentication
+
+🎯 **Goal**: Make the mission of GreenGo clear from the first contact and onboard users effectively.
+
+---
+
+## 🟡 Phase 2 – Issue Submission Flow
+
+- Submit real-world issues via form with geolocation
+- Categories: trash, lost animals, hunger/food insecurity
+- Photo upload, description and location metadata
+- Storage and visibility on backend (Supabase)
+
+🎯 **Goal**: Enable users to easily report issues happening in their area.
+
+---
+
+## 🟠 Phase 3 – Explore Nearby Issues
+
+- Map with pins showing reported issues
+- Filters by category and distance
+- Map integration using Leaflet or Mapbox
+
+🎯 **Goal**: Let users discover missions nearby and choose how to take action.
+
+---
+
+## 🟣 Phase 4 – Submit Resolutions + Get Rewards
+
+- Submit proof of action (cleaning, helping a pet, donating food)
+- Upload photos/videos/testimonials
+- Manual or community-based validation
+- Rewards in XP and symbolic points (tokens in future phase)
+
+🎯 **Goal**: Incentivize real-world action with recognition and gamified feedback.
+
+---
+
+## 🔵 Phase 5 – Profile, XP, and Badges
+
+- Profile page with user history and actions
+- XP system based on completed missions
+- Unlockable badges by impact type and quantity
+- Public visibility of positive contributions
+
+🎯 **Goal**: Create a strong sense of progress, achievement, and social impact.
+
+---
+
+## 🟤 Phase 6 – Guilds and Leagues (Post-Validation Expansion)
+
+- Create guilds (by neighborhood, cause, or affinity group)
+- Rankings between guilds based on collective impact
+- Seasonal leagues with challenges and rewards
+- Display guilds on map and in public feed
+
+🎯 **Goal**: Make the game more fun, social, and viral — encouraging collective civic action.
+
+---
+
+## 🧾 Resource Allocation
+
+| Area            | Allocation | Team Members                            |
+|-----------------|------------|-----------------------------------------|
+| Development     | 70%        | 3 Developers (Frontend, Backend, Web3)  |
+| Operations      | 30%        | 2 People (Community, UX, Partnerships)  |
+
+---
+
+> Our mission is to turn civic action into a fun, rewarding, and decentralized experience. With your support, we’ll start with the streets — and grow into a global network of engaged, empowered citizens.
+
+## Team
+
+The team will be leaded by [Marcus Dutra](https://x.com/marcaumdesign) and [Caue Tomaz](https://x.com/growecosystems), we are core members of GreenPill Brasil, both of us are very passionated people for the nature. And our dream it's to help our cities to regenerate on a fast and funny way.
 
 ## Credits
 
@@ -54,6 +137,3 @@ Special thanks for:
 - Marcin UX (GreenPill Dev Guild)
 - Victoria Maria (Mainnet Design)
 - Emanuelly Alentejo (Mainnet Design)
-- 
-
-
